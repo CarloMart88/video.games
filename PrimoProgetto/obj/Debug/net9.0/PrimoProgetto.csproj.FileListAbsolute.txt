@@ -1,0 +1,14 @@
+C:\Users\LENOVO\Desktop\video.games\PrimoProgetto\bin\Debug\net9.0\PrimoProgetto.exe
+C:\Users\LENOVO\Desktop\video.games\PrimoProgetto\bin\Debug\net9.0\PrimoProgetto.deps.json
+C:\Users\LENOVO\Desktop\video.games\PrimoProgetto\bin\Debug\net9.0\PrimoProgetto.runtimeconfig.json
+C:\Users\LENOVO\Desktop\video.games\PrimoProgetto\bin\Debug\net9.0\PrimoProgetto.dll
+C:\Users\LENOVO\Desktop\video.games\PrimoProgetto\bin\Debug\net9.0\PrimoProgetto.pdb
+C:\Users\LENOVO\Desktop\video.games\PrimoProgetto\obj\Debug\net9.0\PrimoProgetto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\video.games\PrimoProgetto\obj\Debug\net9.0\PrimoProgetto.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\video.games\PrimoProgetto\obj\Debug\net9.0\PrimoProgetto.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\video.games\PrimoProgetto\obj\Debug\net9.0\PrimoProgetto.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\video.games\PrimoProgetto\obj\Debug\net9.0\PrimoProgetto.dll
+C:\Users\LENOVO\Desktop\video.games\PrimoProgetto\obj\Debug\net9.0\refint\PrimoProgetto.dll
+C:\Users\LENOVO\Desktop\video.games\PrimoProgetto\obj\Debug\net9.0\PrimoProgetto.pdb
+C:\Users\LENOVO\Desktop\video.games\PrimoProgetto\obj\Debug\net9.0\PrimoProgetto.genruntimeconfig.cache
+C:\Users\LENOVO\Desktop\video.games\PrimoProgetto\obj\Debug\net9.0\ref\PrimoProgetto.dll
