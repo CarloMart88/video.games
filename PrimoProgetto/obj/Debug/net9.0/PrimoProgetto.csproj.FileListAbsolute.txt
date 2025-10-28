@@ -12,3 +12,4 @@ C:\Users\LENOVO\Desktop\video.games\PrimoProgetto\obj\Debug\net9.0\refint\PrimoP
 C:\Users\LENOVO\Desktop\video.games\PrimoProgetto\obj\Debug\net9.0\PrimoProgetto.pdb
 C:\Users\LENOVO\Desktop\video.games\PrimoProgetto\obj\Debug\net9.0\PrimoProgetto.genruntimeconfig.cache
 C:\Users\LENOVO\Desktop\video.games\PrimoProgetto\obj\Debug\net9.0\ref\PrimoProgetto.dll
+C:\Users\LENOVO\Desktop\video.games\PrimoProgetto\obj\Debug\net9.0\PrimoProgetto.sourcelink.json
